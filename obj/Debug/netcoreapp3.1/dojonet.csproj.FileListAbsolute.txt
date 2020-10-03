@@ -1,0 +1,5 @@
+D:\Empresariales\Net\dojonet\obj\Debug\netcoreapp3.1\dojonet.csprojAssemblyReference.cache
+D:\Empresariales\Net\dojonet\obj\Debug\netcoreapp3.1\dojonet.AssemblyInfoInputs.cache
+D:\Empresariales\Net\dojonet\obj\Debug\netcoreapp3.1\dojonet.AssemblyInfo.cs
+D:\Empresariales\Net\dojonet\obj\Debug\netcoreapp3.1\dojonet.csproj.CoreCompileInputs.cache
+D:\Empresariales\Net\dojonet\obj\Debug\netcoreapp3.1\dojonet.MvcApplicationPartsAssemblyInfo.cache
